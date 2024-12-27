@@ -13,6 +13,5 @@ Obese
 Clear functionality to reset inputs.
 User-friendly graphical interface.
 # Technologies Used
-Programming Language: Python
-
+Programming Language: Python \n
 GUI Framework: Tkinter
