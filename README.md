@@ -16,5 +16,5 @@ The Desktop BMI Calculator App is a simple graphical user interface (GUI) applic
 - User-friendly graphical interface.
 
 ## Technologies Used
-Programming Language: Python
-GUI Framework: Tkinter
+- Programming Language: Python
+- GUI Framework: Tkinter
