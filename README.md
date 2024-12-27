@@ -14,4 +14,5 @@ Clear functionality to reset inputs.
 User-friendly graphical interface.
 # Technologies Used
 Programming Language: Python
+
 GUI Framework: Tkinter
